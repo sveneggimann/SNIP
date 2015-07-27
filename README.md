@@ -12,7 +12,5 @@ Research.
 
 Instructions on how to install SNIP and how to prepare 
 your geographical datas can either be found on the wiki 
-or in the document installation guide:
-
-install_documentation.pdf
+of this site.
 
