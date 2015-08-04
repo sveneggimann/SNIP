@@ -7,7 +7,7 @@ Detailed information about SNIP can be found in:
 Eggimann, S., Truffer, B., Maurer, M., 2015. To connect 
 or not to connect? Modelling the optimal degree of 
 centralisation for wastewater infrastructures. Water
-Research. 
+Research, 84, 218–231.
 
 
 Instructions on how to install SNIP and how to prepare 
