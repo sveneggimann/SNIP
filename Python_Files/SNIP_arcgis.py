@@ -25,7 +25,7 @@
 # ==========
 # Eggimann Sven, Truffer Bernhard, Maurer Max (2015): To connect or not to connect? 
 # Modelling the optimal degree of centralisation for wastewater infrastructures.   
-# Water Research, 84, 218–231. Link: http://www.sciencedirect.com/science/article/pii/S004313541530107X
+# Water Research, 84, 218-231. Link: http://www.sciencedirect.com/science/article/pii/S004313541530107X
 #
 # Hetland M.L. (2010): Python Algorithms. Mastering Basic Algorithms in the Python Language. apress.
 #
